@@ -85,17 +85,25 @@ int h = 6;
          
       }
       if (state == 3){
-         delay(100000);
+         delay(360000);
          Serial.print("h");
-         delay(100000);
+         delay(360000);
          Serial.print("h");
-         delay(100000);
+         delay(360000);
          Serial.print("h");
-         delay(100000);
+         delay(360000);
          Serial.print("h");
-         delay(100000);
+         delay(360000);
          Serial.print("h");
-         delay(100000);
+         delay(360000);
+         Serial.print("h");
+         delay(360000);
+         Serial.print("h");
+         delay(360000);
+         Serial.print("h");
+         delay(360000);
+         Serial.print("h");
+         delay(360000);
          Serial.print("h");
       }
       delay(dl);
